@@ -7,6 +7,7 @@
 ## Methods
 
 - `isRelativeUrl` - Determines if a URL is relative.
+- `truncateText` - Truncates text with an ellipsis.
 
 ## Contributions
 
